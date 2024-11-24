@@ -27,4 +27,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: your_dockerhub_username/hello-docker:latest
+        tags: iikikk56/hello-docker:latest
